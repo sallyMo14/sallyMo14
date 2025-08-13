@@ -27,11 +27,11 @@ I'm always open to collaborating on interesting projects. If you have an excitin
 
 ## 💬 Ask Me About
 - **Software Engineering Principles**
-- **Data Science:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
+- **Data Science:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn.
 - **Data Preprocessing & Feature Engineering**  
-- **Machine Learning Model Development & Evaluation**
-- **Deep Learning fundamentals:** Artificial Neural Networks(ANN),Convolutional Neural Networks(CNNs)
-- **Mobile Applications Development:** Flutter
+- **Machine Learning Model Development & Evaluation:** Regression & Classification.
+- **Deep Learning fundamentals:** Artificial Neural Networks(ANN),Convolutional Neural Networks(CNNs).
+- **Mobile Applications Development:** Dart, Flutter.
 - **Project Management**
  
 
