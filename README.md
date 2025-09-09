@@ -5,32 +5,34 @@ I'm a **Data Scientist** with a strong foundation in **Computer Systems Engineer
 
 ---
 
-## 🔭 Projects
+##  Projects
 - **Prediction of Employee Income:** Built a classification model to predict whether an individual's income exceeds $50K/year using demographic and work-related features. Applied data preprocessing, feature engineering, and multiple ML algorithms to optimize accuracy.  
 - **Prediction of Abalone Sex:** Developed a multi-class classification model to predict abalone sex based on physical measurements, with visual insights to support the analysis.  
 - **Product Sales Prediction:** Designed a regression model to forecast product sales based on market, store, and product attributes.
 
 ---
 
-## 🌱 Learning & Growth
+##  Learning & Growth
 I’m continuously improving my skills in:  
 - Advanced **Machine Learning** & **Model Optimization**   
 - **Deep Learning** fundamentals  
-- Data engineering  
+- Data engineering
+- Time series
 
 ---
 
-## 👯 Collaboration
+##  Collaboration
 I'm always open to collaborating on interesting projects. If you have an exciting idea or need help with something, feel free to reach out!   
 
 ---
 
-## 💬 Ask Me About
+##  Ask Me About
 - **Software Engineering Principles**
 - **Data Science:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn.
 - **Data Preprocessing & Feature Engineering**  
 - **Machine Learning Model Development & Evaluation:** Regression & Classification.
 - **Deep Learning fundamentals:** Artificial Neural Networks(ANN),Convolutional Neural Networks(CNNs).
+- **Times Series***
 - **Mobile Applications Development:** Dart, Flutter.
 - **Project Management**
  
@@ -46,10 +48,10 @@ I'm always open to collaborating on interesting projects. If you have an excitin
 
 ---
 
-## 🎯 Hobbies  
-- 📖 Reading    
-- 🎨 Pottery Painting 
-- 🐦 Caring for My Birds
+##  Hobbies  
+-  Reading    
+-  Pottery Painting 
+-  Caring for My Birds
   
 
 ---
