@@ -39,7 +39,7 @@ I'm always open to collaborating on interesting projects. If you have an excitin
 
 ---
 
-## 📫 How to Reach Me
+##  How to Reach Me
 - **Email:** sallyabdalatti@gmail.com 
 - **LinkedIn:**  [sally-abdalatti](https://www.linkedin.com/in/sally-abdalatti)
  
