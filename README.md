@@ -32,7 +32,8 @@ I'm always open to collaborating on interesting projects. If you have an excitin
 - **Data Preprocessing & Feature Engineering**  
 - **Machine Learning Model Development & Evaluation:** Regression & Classification.
 - **Deep Learning fundamentals:** Artificial Neural Networks(ANN),Convolutional Neural Networks(CNNs).
-- **Times Series***
+- **Times Series**
+-**Tableau**
 - **Mobile Applications Development:** Dart, Flutter.
 - **Project Management**
 - **SDLC**
