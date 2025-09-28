@@ -18,6 +18,7 @@ I’m continuously improving my skills in:
 - **Deep Learning** fundamentals  
 - Computer Vision
 - Time series
+- Tableau 
 
 ---
 
