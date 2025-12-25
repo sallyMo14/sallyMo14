@@ -7,8 +7,8 @@ I'm a **Data Scientist** with a strong foundation in **Computer Systems Engineer
 
 ##  Projects
 - **Prediction-of-Student-Success:** explores and models a student dataset to better understand factors affecting academic performance and to build predictive models.  
-- **Customers Segmentation:** This project performs customer segmentation analysis using clustering techniques on Ulabox (online grocery delivery service) order data from 2017. The goal is to identify distinct customer groups based on their purchasing behavior and product preferences to enable targeted marketing strategies..  
-- **Product Sales Prediction:** Designed a regression model to forecast product sales based on market, store, and product attributes.
+- **Customers Segmentation:** This project performs customer segmentation analysis using clustering techniques on Ulabox (online grocery delivery service) order data from 2017. The goal is to identify distinct customer groups based on their purchasing behavior and product preferences to enable targeted marketing strategies. 
+- **Fraud Detection in Electricity and Gas Consumption:** The goal of this project is to build a machine learning model that can detect fraudulent behavior in electricity and gas consumption data. Identifying such cases helps utility companies reduce losses and improve service efficiency.
 
 ---
 
